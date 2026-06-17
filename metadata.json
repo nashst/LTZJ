@@ -1,0 +1,6 @@
+{
+  "name": "街机飞机大战",
+  "description": "一款经典复古街机风格的飞机大战游戏。支持多种武器升级、副属性系统、弹幕粒子物理引擎、史诗级首领战（Boss）、合成街机音效和炫酷CRT电子管滤镜。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
